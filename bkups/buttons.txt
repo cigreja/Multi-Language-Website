@@ -1,0 +1,96 @@
+<div id="buttons-container">
+    <ul class="items">
+        <li><a href="">
+            <div class="outerContainer" style="background-image: url('images/Dovilex_Tractor_in_Field_1KT.png')">
+                <div class="innerContainer">
+                    <div>
+                        <p> Agricoltura, pesca, industria, ambiente</p>
+                    </div>
+                </div>
+            </div>
+        </a></li>
+        <li><a href="">
+            <div class="outerContainer" style="background-image: url('images/Dovislex_EU_Logo_1KT.png')">
+                <div class="innerContainer">
+                    <div>
+                        <p>Concorrenza</p>
+                    </div>
+                </div>
+            </div>
+        </a></li>
+        <li><a href="">
+            <div class="outerContainer" style="background-image: url('images/Dovislex_Nation_Flags_1KT.png')">
+                <div class="innerContainer">
+                    <div>
+                        <p>Scambi all'interno dell'area UE</p>
+                    </div>
+                </div>
+            </div>
+        </a></li>
+
+        <li><a href=".html">
+            <div class="outerContainer" style="background-image: url('images/Dovislex_Cargo_Ship2_1KT.png');">
+                <div class="innerContainer">
+                    <div>
+                        <p> Import - Export</p>
+                    </div>
+                </div>
+            </div>
+        </a></li>
+        <li><a href="">
+            <div class="outerContainer"
+                 style="background-image: url('images/Dovislex_Nation_Flags_1KT.png');">
+                <div class="innerContainer">
+                    <div>
+                        <p>Contratti internazionali</p>
+                    </div>
+                </div>
+            </div>
+        </a></li>
+        <li><a href="">
+            <div class="outerContainer" style="background-image: url('images/Dovislex_Venice_Canal_1KT.png');">
+                <div class="innerContainer">
+                    <div>
+                        <p>Marchi, disegni e modelli</p>
+                    </div>
+                </div>
+            </div>
+        </a></li>
+        <li><a href="">
+            <div class="outerContainer" style="background-image: url('images/Dovislex_EU_Logo_1KT.png');">
+                <div class="innerContainer">
+                    <div>
+                        <p> Penale e penale-amministrativo finanziario</p>
+                    </div>
+                </div>
+            </div>
+        </a></li>
+        <li><a href="">
+            <div class="outerContainer" style="background-image: url('images/Dovislex_Contract_Pens_1KT.png');">
+                <div class="innerContainer">
+                    <div>
+                    <p>Contratti commerciali e immobiliare</p>
+                    </div>
+                </div>
+            </div>
+        </a></li>
+        <li><a href="">
+            <div class="outerContainer" style="background-image: url('images/Dovislex_Nation_Flags_1KT.png');">
+                <div class="innerContainer">
+                    <div>
+                        <p>Negoziati e Conflitti</p>
+                    </div>
+                </div>
+            </div>
+        </a></li>
+        <li><a href="">
+            <div class="outerContainer" style="background-image: url('images/Dovislex_Bundestag_Berlin_1KT.png');">
+                <div class="innerContainer">
+                    <div>
+                        <p>Consulenza estesa in Germania</p>
+                    </div>
+                </div>
+            </div>
+        </a></li>
+    </ul>
+</div>

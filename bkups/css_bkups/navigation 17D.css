@@ -1,0 +1,107 @@
+/* =Navigation
+----------------------------------------------- */
+  
+nav#navigation {
+    /*display: block;*/
+    /*clear: both;*/
+    border-radius: 6px;
+    box-shadow: 0 0 6px -2px #333333;
+    /*position: fixed;*/
+    /*top: 140px; left: 16%;*/
+    width: 100%;
+    max-width: 980px;
+    padding: 0 15px;
+    height: 50px;
+    border: 1px solid #fff;
+    background: url("../../images/main-nav-bkg.jpg") repeat-x;
+    /*z-index: 200;*/
+}
+
+.menu-main, .sub-menu {
+    /* Navigation tab height */
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    background: #eeeeee;
+}
+
+.menu-item {
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 15px;
+    max-height: 100%;
+    text-align: center;
+    background: url("../../images/main-nav-divider.png") right center no-repeat;
+    width: 5px;
+    padding-right: 5px;
+    height: 48px;
+    float: left;
+    position: relative;
+}
+
+.menu-item:hover > ul { display: block;}
+
+.menu-item a {
+    padding: 9px 15px;
+    color: #004d68;
+    letter-spacing: 0.1em;
+    height: 40px; /* each box in a list*/
+    text-decoration: none;
+    font-weight: 400;
+    display: block;
+}
+
+.menu-item a:hover {
+    background: url("../../images/main-nav-hover.jpg") repeat-x;
+    text-decoration: none;
+}
+
+.menu-item ul {
+    top: 48px;
+    height: auto;
+
+}
+.sub-menu {
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    display: none;
+    float: left;
+    left: 0;
+    position: absolute;
+    top: 0;
+    z-index: 99999;
+}
+.sub-menu.large{width: 460px;}
+.sub-menu.small {width: 180px;}
+
+.sub-menu li {
+    background: none;
+    text-align: left;
+    border-top: 1px solid #fff;
+    padding-right: 0;
+}
+
+.sub-menu a:hover {
+    background: url("../../images/white90.png");
+    white-space: normal;
+
+}
+.sub-menu a {height: 95%;}
+
+.num-00 {width: 10%;}
+.num-10 {width: 13%;}
+.num-20 {width: 25%;}
+.num-30 {width: 14%;}
+.num-40 {width: 15%;}
+.num-50 {width: 14%;}
+
+span{
+    display: none;
+}
+
+/*#masthead .sub-menu a {*/
+/*display: block;*/
+/*padding: 12px 15px;*/
+/*height: auto;*/
+/*background: url("../images/white80.png");*/
+/*max-width: 100%;*/
+/*}*/

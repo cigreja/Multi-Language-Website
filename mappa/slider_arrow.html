@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Slider</title>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="../js/unslider.min.js"></script>
+    <link rel='stylesheet' type='text/css' href='../css/map_arrow.css'/>
+    <script>
+        $(function () {
+            $('.slider').unslider();
+
+            <!-- And the JavaScript -->
+
+            var unslider = $('.slider').unslider();
+
+            $('.unslider-arrow').click(function () {
+                var fn = this.className.split(' ')[1];
+
+                //  Either do unslider.data('unslider').next() or .prev() depending on the className
+                unslider.data('unslider')[fn]();
+            });
+        });
+    </script>
+</head>
+<body>
+<div class="slider">
+    <ul>
+        <li class="map"><img src="../images/Dovilex_Tractor_in_Field_Sprite3_3KT.png"></li>
+        <li class="map"><img src="../images/Dovislex_Aqueduct_Sprite3_3KT.png"></li>
+        <li class="map"><img src="../images/Dovislex_Bundestag_Berlin_Sprite3_3KT.png">.</li>
+    </ul>
+
+</div>
+
+<div class="arrows">
+<a href="#" class="unslider-arrow prev">Previous</a>
+<a href="#" class="unslider-arrow next">Next</a>
+</div>
+
+
+</body>
+</html>

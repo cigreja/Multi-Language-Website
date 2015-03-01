@@ -1,0 +1,7 @@
+html { background-color: aqua; overflow:   }
+
+body { width: 980px;  height: 600px; background-color: pink; margin: auto; overflow: visible;   }
+
+div { height: 200px; width: 30%; background-color: red; display: table-cell; float: right; }
+
+div:hover { background-color: yellow; }

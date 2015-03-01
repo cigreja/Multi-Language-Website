@@ -1,0 +1,34 @@
+<div id="buttons-container">
+                    <ul class="links">
+                        <li><a href=""style="background-image: url(images/Dovislex_Contract_Pens_1KT.png)">Community
+                            Law</a>
+                        </li>
+                        <li><a href="" style="background-image: url(images/Dovislex_Nation_Flags_1KT.png)">Contract and
+                            Commercial Agreements</a></li>
+                        <li><a href="" style="background-image: url(images/Dovilex_Tractor_in_Field_1KT.png)">Investment
+                            Law</a>
+                        </li>
+                        <li><a href=".html" style="background-image: url('images/Dovislex_Cargo_Ship2_1KT.png');">Due
+                            Diligence</a></li>
+                        <li style="display: none;"><a href="index.html"
+                                                      style="background-image: url('images/Dovislex_Construction_Site_1KT.png');">Business
+                            Strategy &amp; Consulting</a></li>
+                        <li><a href=""
+                               style="background-image: url('images/Dovislex_Worker_in_Construction_Hat_1KT.png');">Dispute
+                            Resolution Services</a></li>
+                        <li><a href="" style="background-image: url('images/Dovislex_Bundestag_Berlin_1KT.png');">CFO,
+                            Operations, Tax &amp; Accounting Services</a></li>
+                        <li><a href="" style="background-image: url('images/Dovislex_Venice_Canal_1KT.png');">COO,
+                            Operations
+                            &amp; Trade Support</a></li>
+                        <li><a href="" style="background-image: url('images/Dovislex_Aqueduct_ 1KT.png');">Regulatory
+                            &amp;
+                            Compliance</a></li>
+                        <li><a href="" style="background-image: url('images/Dovislex_Cargo_Ship1_1KT.png');">Due
+                            Diligence</a>
+                        </li>
+                        <li><a href="" style="background-image: url('images/Dovislex_EU_Logo_1KT.png');">Regulatory
+                            &amp;
+                            Compliance</a></li>
+                    </ul>
+</div>

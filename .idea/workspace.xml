@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5c18096-af24-4576-8302-6c811a3723c9" name="Default" comment="" />
+    <ignored path="RT-WebDev.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/navigation.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424456671584" ignored="false" />
+    <file path="/Navigation3L.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423513832960" ignored="false" />
+    <file path="/Navigation.txt" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423504274526" ignored="false" />
+    <file path="/Navigation.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423504939600" ignored="false" />
+    <file path="/Navigation_copy.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423508308736" ignored="false" />
+    <file path="/Standard_Layout.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424401898906" ignored="false" />
+    <file path="/navigation_D.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423518307957" ignored="false" />
+    <file path="/main.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425162867228" ignored="false" />
+    <file path="/footer.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425227226461" ignored="false" />
+    <file path="/header.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423751538273" ignored="false" />
+    <file path="$PROJECT_DIR$/../Table_DB/connection.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424709814354" ignored="false" />
+    <file path="/connection.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424900244860" ignored="false" />
+    <file path="$PROJECT_DIR$/../Table_DB/connection_1.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423601335560" ignored="false" />
+    <file path="$PROJECT_DIR$/../Table_DB/table.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423598459682" ignored="false" />
+    <file path="/table.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423598453727" ignored="false" />
+    <file path="$PROJECT_DIR$/../Table_DB/table.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423598668350" ignored="false" />
+    <file path="/table.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423607225220" ignored="false" />
+    <file path="dbtable:/7caf4dd7/85edc0aa-0a58-429d-bb8c-fb578806fc19/secret_friend..friends_data" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423600120265" ignored="false" />
+    <file path="/connection_1.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423603652396" ignored="false" />
+    <file path="/Dummy.txt" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423866437511" ignored="false" />
+    <file path="/a.sql" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424900875728" ignored="false" />
+    <file path="/dummy.sql" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424900873614" ignored="false" />
+    <file path="db-console:/7caf4dd7/9962aa67-ecd0-4be5-b34b-df6f92b18098/" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424701401317" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/Contenzioso.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423605289520" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/table.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423611704102" ignored="false" />
+    <file path="db-console:/5e2d432d/9962aa67-ecd0-4be5-b34b-df6f92b18098/" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423844959154" ignored="false" />
+    <file path="/ListTable" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424903231279" ignored="false" />
+    <file path="dbtable:/5e2d432d/9962aa67-ecd0-4be5-b34b-df6f92b18098/Registration..Contenzioso" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423844462744" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/connection_1.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423603727296" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/Contenzioso.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423677083402" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/Contenzioso files/Upload Contenzioso_2L.sql" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423770379844" ignored="false" />
+    <file path="/Upload Contenzioso_2L.sql" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424904064314" ignored="false" />
+    <file path="/Contenzioso.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423673777623" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/newRowDB.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423842218240" ignored="false" />
+    <file path="/newRowDB.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423841722140" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/addNewRoadDB.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423677716559" ignored="false" />
+    <file path="/addNewRoadDB.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423677684959" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/connection.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423684159898" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/Contenzioso files/Contenzioso.csv" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423684678872" ignored="false" />
+    <file path="/Contenzioso.csv" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423684678872" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/addNewRowDB.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423845378376" ignored="false" />
+    <file path="/addNewRowDB.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424915531861" ignored="false" />
+    <file path="$USER_HOME$/eclipse/WebSiteResponsive/style_table.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423749092203" ignored="false" />
+    <file path="/style_table.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423848993788" ignored="false" />
+    <file path="$USER_HOME$/eclipse/WebSiteResponsive/index_table.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423753516683" ignored="false" />
+    <file path="/index_table.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423753476154" ignored="false" />
+    <file path="$PROJECT_DIR$/../TestTableFormat/TableColumn2Fix.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423759032326" ignored="false" />
+    <file path="$PROJECT_DIR$/../TestTableFormat/css/style_table.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423757503070" ignored="false" />
+    <file path="$PROJECT_DIR$/../TestTableFormat/css/style.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423758699116" ignored="false" />
+    <file path="$PROJECT_DIR$/../TestTableFormat/Column2Variable.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423762948686" ignored="false" />
+    <file path="/Column2Variable.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423762826601" ignored="false" />
+    <file path="/style.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424185970742" ignored="false" />
+    <file path="/TableColumn2Fix.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423759880077" ignored="false" />
+    <file path="$PROJECT_DIR$/../TestTableFormat/TableColumn2Fixed.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423759893613" ignored="false" />
+    <file path="/Standard_Layout 3D.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423765690036" ignored="false" />
+    <file path="/load-siteParts.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425000344425" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/css/style_table.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423849010124" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/css/style_table.css.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423848824685" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/css/contenzioso.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423854219805" ignored="false" />
+    <file path="/contenzioso.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424791634480" ignored="false" />
+    <file path="/buttons 1D.txt" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423773424259" ignored="false" />
+    <file path="/buttons.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423959920248" ignored="false" />
+    <file path="/verticalAlignment Vsimple.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423773760079" ignored="false" />
+    <file path="/vertical Vsimple.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423776050451" ignored="false" />
+    <file path="/navigation.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424459910930" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/deleteRow.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423845410357" ignored="false" />
+    <file path="/deleteRow.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423845410357" ignored="false" />
+    <file path="/modifyTable.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424901097610" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/modifyTable.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423954873928" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/css/style.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423954839130" ignored="false" />
+    <file path="/screen_layout_small.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425171114681" ignored="false" />
+    <file path="/buttonsFull.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423853637634" ignored="false" />
+    <file path="/footerFull.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423853750970" ignored="false" />
+    <file path="/headerFull.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423854018424" ignored="false" />
+    <file path="/header.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425227355183" ignored="false" />
+    <file path="$USER_HOME$/Documents/INTernship/Standard_Layout.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423857456674" ignored="false" />
+    <file path="$USER_HOME$/Documents/INTernship/css/screen_layout_small.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423857362193" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/font" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423862456751" ignored="false" />
+    <file path="/font" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423859377931" ignored="false" />
+    <file path="/contenzioso_layout.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423950684886" ignored="false" />
+    <file path="/contenzioso_table.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424902550499" ignored="false" />
+    <file path="/Standard_Layout_Small_Screen.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423967905286" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Table_DB/list.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423959811920" ignored="false" />
+    <file path="/list.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423959789118" ignored="false" />
+    <file path="/buttons_small.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1423968077944" ignored="false" />
+    <file path="/screen_layout_samall 1D" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424021064740" ignored="false" />
+    <file path="$PROJECT_DIR$/../Table_DB/css/style.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424192929273" ignored="false" />
+    <file path="$PROJECT_DIR$/../Table_DB/addNewRowDB.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424041668199" ignored="false" />
+    <file path="dbtable:/7caf4dd7/9962aa67-ecd0-4be5-b34b-df6f92b18098/Registration..Contenzioso" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424654965337" ignored="false" />
+    <file path="dbtable:/7caf4dd7/9962aa67-ecd0-4be5-b34b-df6f92b18098/Registration..tableview" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424041598716" ignored="false" />
+    <file path="$PROJECT_DIR$/../Table_DB/modifyTable.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424384316477" ignored="false" />
+    <file path="$PROJECT_DIR$/../Table_DB/Contenzioso files/Upload Contenzioso_2L.sql" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424704018524" ignored="false" />
+    <file path="/navigationFull.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424139766580" ignored="false" />
+    <file path="/germania360.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424186561553" ignored="false" />
+    <file path="/import-export.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424186578682" ignored="false" />
+    <file path="/internazionale.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424186590282" ignored="false" />
+    <file path="/scambi.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424186622765" ignored="false" />
+    <file path="/concorrenza.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424186654161" ignored="false" />
+    <file path="/contenzioso.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424705844212" ignored="false" />
+    <file path="/contracts.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424186685046" ignored="false" />
+    <file path="/penale-amministrativo.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424186710089" ignored="false" />
+    <file path="/trademarks.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424186737540" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/css/navigation.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424297349744" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/css/main.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424268492939" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/navigationSmallScreen.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424268193563" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/js/open_menu.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424195856659" ignored="false" />
+    <file path="/navigationSmallScreen.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424473980379" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/js/jquery.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424191137926" ignored="false" />
+    <file path="/open_menu.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424195855596" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/vavigation_copy.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424195668980" ignored="false" />
+    <file path="/vavigation_copy.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424195577628" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/js/jquery.min.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424195965814" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/css/nav_test" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424195623370" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/css/nav_test.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424211692699" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/navigation_copy.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424211651225" ignored="false" />
+    <file path="/navigation_copy.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424201285154" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/js/collapsible.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424211888014" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/js/jqueri-1.9.1.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424200321115" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/css/collapse" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424201268200" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/js/ddacordion.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424201311377" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/test.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424267454422" ignored="false" />
+    <file path="/test.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424267454018" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/css/main.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424311218772" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/navigationSmallScreen.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424463372471" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/collapse1.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424300826065" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/js_functions.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424272328807" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/Settori_4L.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424300826065" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/nav_smallScreen.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424354331706" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/css/collapse.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424895300483" ignored="false" />
+    <file path="/nav_smallScreen.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424354326730" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/css/navigation.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424382908174" ignored="false" />
+    <file path="/collapse.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424277779638" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/js/js_functions.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424292480673" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/nav_smallScreen2.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424382974415" ignored="false" />
+    <file path="/nav_smallScreen2.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424382623476" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/css/navigation 1D.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424354915847" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/nav_smallScreen2 1D.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424462918105" ignored="false" />
+    <file path="/nav_smallScreen2 1D.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424462918105" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/test.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424369813044" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/concorrenza.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424382974415" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/css/navigation_small_screen.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424462404873" ignored="false" />
+    <file path="/navigationSmallScreen_bottom.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424395006164" ignored="false" />
+    <file path="/navigation_small_screen.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424462362072" ignored="false" />
+    <file path="/navigationFul 5Dl.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424449904338" ignored="false" />
+    <file path="/toggle-menu.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424452594512" ignored="false" />
+    <file path="$PROJECT_DIR$/../collapse/css/navigation_small_screen-W.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424470681560" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/collapse/css/navigation_small_screen-W.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424470797945" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/collapse/navigationSmallScreen.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424473980751" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/collapse/css/screen_layout_small.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424474472118" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/collapse/css/collapse.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424473178282" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/collapse/css/navigation 1D.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424473467944" ignored="false" />
+    <file path="$PROJECT_DIR$/../control/screen_layout_small.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424637643164" ignored="false" />
+    <file path="$PROJECT_DIR$/../Table_DB/Contenzioso.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424654856174" ignored="false" />
+    <file path="/Upload Contenzioso_3D.sql" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424655938978" ignored="false" />
+    <file path="$PROJECT_DIR$/../Contenzioso_DB/Contenzioso files/Upload Contenzioso_3D.sql" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424702137090" ignored="false" />
+    <file path="$PROJECT_DIR$/../Table_DB/Contenzioso files/Workbook1.csv" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424703785388" ignored="false" />
+    <file path="$PROJECT_DIR$/../Contenzioso_DB/connection.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424900245247" ignored="false" />
+    <file path="$PROJECT_DIR$/../Contenzioso_DB/Contenzioso.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424715040111" ignored="false" />
+    <file path="$PROJECT_DIR$/../Contenzioso_DB/Contenzioso files/Upload Contenzioso_2L.sql" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424904347122" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/contenzioso.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424728646601" ignored="false" />
+    <file path="$PROJECT_DIR$/../Contenzioso_DB/test_modify_table.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424799252360" ignored="false" />
+    <file path="/test_modify_table.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424799252360" ignored="false" />
+    <file path="/uffici.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425230979382" ignored="false" />
+    <file path="/professionisti.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424990276060" ignored="false" />
+    <file path="/slider.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424896676613" ignored="false" />
+    <file path="/map.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425170740859" ignored="false" />
+    <file path="/NotesLog_2L.txt" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425231644856" ignored="false" />
+    <file path="/unslider.min.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424894130383" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Slider/slider.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424879168187" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Slider/css/style.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424879057116" ignored="false" />
+    <file path="/slider_arrow.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424883021078" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/uffici.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425001250657" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/css/map.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425061499394" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/js/responsiveslides.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424959497516" ignored="false" />
+    <file path="/responsiveslides.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424913926772" ignored="false" />
+    <file path="dbtable:/260dfbc4/9962aa67-ecd0-4be5-b34b-df6f92b18098/Registration..Contenzioso" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424903120335" ignored="false" />
+    <file path="$PROJECT_DIR$/../Contenzioso_DB/modifyTable.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424902267931" ignored="false" />
+    <file path="$PROJECT_DIR$/../Contenzioso_DB/addNewRowDB.php" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424915532534" ignored="false" />
+    <file path="dbtable:/260dfbc4/9962aa67-ecd0-4be5-b34b-df6f92b18098/Registration..tableview" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424901332535" ignored="false" />
+    <file path="$PROJECT_DIR$/../Contenzioso_DB/Contenzioso files/Contenzioso_2.csv" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424903088134" ignored="false" />
+    <file path="db-console:/260dfbc4/9962aa67-ecd0-4be5-b34b-df6f92b18098/" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424915665534" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/js/responsiveslides.min.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424959844992" ignored="false" />
+    <file path="/responsiveslides.min.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424959844595" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/multiple/index.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424961844430" ignored="false" />
+    <file path="/index.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424961007241" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/css/footer 2L.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/footer3.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/Tests/css/style.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/bkups/header1.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/footer.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/multiple/css/example.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/bkups/footer3.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/css/footer.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/bkups/header_2D.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/bkups/footer_4L.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/Tests/index.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/css/style-ver=3.9.3_4L.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/bkups/css_bkups/main 2D_prev_split.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424963820425" ignored="false" />
+    <file path="/jquery.slides.min.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425084635860" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/js/load-siteParts 2D.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424979046037" ignored="false" />
+    <file path="/load-siteParts 2D.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424978872990" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/bruxelles-map.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424979905816" ignored="false" />
+    <file path="/bruxelles-map.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425227149214" ignored="false" />
+    <file path="/bibliografia.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424990703240" ignored="false" />
+    <file path="/thingsToDo" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425002213272" ignored="false" />
+    <file path="/bibliografia" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424989484516" ignored="false" />
+    <file path="/bibliografia.css" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1424990340427" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/js/common.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425000669286" ignored="false" />
+    <file path="/common.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425000533980" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/js/load-siteParts.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425001323144" ignored="false" />
+    <file path="/load-linksMaps.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425057923098" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/Tests/columns.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425079670762" ignored="false" />
+    <file path="/columns.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425079574857" ignored="false" />
+    <file path="/padova-map.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425227289885" ignored="false" />
+    <file path="/berlino-map.html" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425227306399" ignored="false" />
+    <file path="/load-maps.js" changelist="b5c18096-af24-4576-8302-6c811a3723c9" time="1425226958020" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RT-WebDev" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="map.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/map.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="0" selection-start="1143" selection-end="1227" vertical-scroll-proportion="1.5517242">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/js/load-linksMaps.js" />
+        <option value="$PROJECT_DIR$/js/jquery.slides.min.js" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/js/load-siteParts.js" />
+        <option value="$PROJECT_DIR$/css/map.css" />
+        <option value="$PROJECT_DIR$/css/screen_layout_small.css" />
+        <option value="$PROJECT_DIR$/js/load-maps.js" />
+        <option value="$PROJECT_DIR$/bruxelles-map.html" />
+        <option value="$PROJECT_DIR$/footer.html" />
+        <option value="$PROJECT_DIR$/padova-map.html" />
+        <option value="$PROJECT_DIR$/berlino-map.html" />
+        <option value="$PROJECT_DIR$/header.html" />
+        <option value="$PROJECT_DIR$/navigation.html" />
+        <option value="$PROJECT_DIR$/contenzioso.html" />
+        <option value="$PROJECT_DIR$/uffici.html" />
+        <option value="$PROJECT_DIR$/NotesLog_2L.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1452" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RT-WebDev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RT-WebDev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RT-WebDev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="Errors" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Contenzioso_DB" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bkups" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/bkups/css_bkups" />
+      <recent name="$PROJECT_DIR$/bkups" />
+      <recent name="$PROJECT_DIR$/bkups/js_bkups" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c18096-af24-4576-8302-6c811a3723c9" name="Default" comment="" />
+      <created>1423498724885</created>
+      <updated>1423498724885</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1452" y="23" width="1440" height="873" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23098996" sideWeight="0.67330676" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32669324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="55" selection-start="626" selection-end="626" vertical-scroll-proportion="-11.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map-bruxelles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="103" selection-start="245" selection-end="245" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map-padova.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="243" selection-end="243" vertical-scroll-proportion="-6.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map-berlino.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="6" selection-start="244" selection-end="244" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="6" selection-start="489" selection-end="489" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliografia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="111" selection-start="5752" selection-end="5752" vertical-scroll-proportion="2.9646018">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bkups/uffici_1D.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="48" selection-start="1164" selection-end="1173" vertical-scroll-proportion="0.51355207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thingsToDo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="159" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NotesLog_2L.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="46" selection-start="2620" selection-end="2620" vertical-scroll-proportion="0.9158621">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="122" selection-start="248" selection-end="248" vertical-scroll-proportion="0.13081396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/load-maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="319" selection-end="319" vertical-scroll-proportion="0.24827586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uffici.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="49" selection-start="5122" selection-end="5122" vertical-scroll-proportion="0.764622">
+          <folding>
+            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#div#1;tag#body#0" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contenzioso.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="35" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.78488374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="0.021067416">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="65" selection-start="915" selection-end="915" vertical-scroll-proportion="0.44935805">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/map.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="0" selection-start="1143" selection-end="1227" vertical-scroll-proportion="1.5517242">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,163 @@
+/* CSS resets, general classes*/
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+          margin: 0;
+}
+
+/* LAYOUT */
+html,
+body {
+   max-width: 980px;
+   margin:0;
+   padding:0;
+   height:100%;
+   background: gray;
+}
+#container {
+   min-height:100%;
+   position:relative;
+   background: white;
+   min-width: 360px;
+  max-width: 980px;
+  margin: 0  auto 0 0;
+}
+
+#Destro
+{ 	position: absolute;
+	margin-left: 180px;
+	min-height: 100%;
+	width: 81.63% /*1- 180/980*/; min-width: 660px;
+	background: white /*orange*/;
+}
+
+
+#header {
+   background:#ff0;
+   padding:10px;
+   background: white /*pink*/;
+   width: 100%; max-width: 800px /*980-180*/; /*because of position fixed, width is with respect to the viewport ! */
+
+}
+
+
+#centrale {
+	width: 100%;
+	padding: 5px 20px 0px;  padding-bottom:10px;   /* Height of the footer */
+	min-height:100px;
+	background: white /*yellow*/;
+	
+}
+
+#footer {
+   position: fixed;
+   bottom:0;
+   width:800px;
+   margin-left: 0px;
+   height:10px;   /* Height of the footer */
+   background: white /*red*/;
+}
+
+/* FORMATTING */
+
+#addressesTable { 
+	width: 100%; 
+	border: 0; cellspacing: 0; cellpadding: 0; vspace: 0;
+	margin: auto; }
+
+.addressCell {
+	height: 90px; 
+	overflow: hidden;
+	text-align: left;  
+	white-space: nowrap;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #003399;		
+}	
+
+	
+/* fonts */	
+#logo_text_block {
+	font-family: Courier New, Courier, monospace; 
+	font-weight: 400;
+}
+
+.corpopiccolo {  
+	text-align: justify; 
+	margin-left: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #333366; }
+
+.andale { font-family: 'Andale Mono', AndaleMono, monospace;
+		 font-size: 12px; 
+		 font-style: normal;
+}		 
+
+.avvocati { 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold; 
+	text-align:center; 
+	color: #333366;
+}		 
+
+.bibliografica {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #003333;
+	font-style: normal;
+}
+
+/* Other general classes */
+
+#mappa_padova_finestra2{
+	background-color: #ffffff; 
+	margin-top: 20px;
+	margin-bottom: 20px; 
+	margin-left: 20px;
+	margin-right: 20px;
+	min-height:100%;
+    position:relative;
+	min-width: 360px;
+	max-width: 980px;
+	}
+	
+ .mappa_finestra2 {  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #333366;
+}
+
+/* links */
+
+a {text-decoration: none; }
+a:link { text-decoration: none; color: #0000CC; /* #0000CC; 333366 */}
+a:visited { color: #0000CC; /* #0000CC; #666 */} 
+a:hover { color: #CC0000; /*#CCC */ }
+a:active  { color: #CC0000; text-decoration: none; }
+
+a.Navi_link_colors:link{
+	border-color: #fff;
+	color: #fff;
+}
+
+a.Navi_link_colors:hover {
+	border-color: #CC0000;
+	color: #CC0000;
+}
+
+a.Navi_link_colors:active {
+	border-color: #CC0000; 
+	color: #CC0000;
+}
+
+
+
+.red { background: red; }
+.blue { background: #033DA7; } 
+/* bkgd color in original flash #003399(edit:#0000B2)*/
+.green { background: green; }
+.gray { background: gray; } 
+

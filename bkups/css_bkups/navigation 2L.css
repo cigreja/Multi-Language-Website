@@ -1,0 +1,198 @@
+/* =Menu
+----------------------------------------------- */
+
+
+
+.main-navigation ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+.main-navigation li {
+    float: left;
+    position: relative;
+}
+
+.main-navigation a {
+    display: block;
+    text-decoration: none;
+}
+
+.main-navigation ul ul {
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    display: none;
+    float: left;
+    left: 0;
+    position: absolute;
+    top: 0em;
+    z-index: 99999;
+}
+
+.main-navigation ul ul ul {
+    left: 100%;
+    top: 0;
+
+}
+
+/*size sub-menu*/
+.main-navigation ul ul a {
+    max-width: 100%;
+    background: #eeeeee;
+    margin: 0 auto;
+}
+
+.main-navigation ul li:hover > ul {
+    display: block;
+}
+
+/* Small menu */
+
+.menu-toggle {
+    cursor: pointer;
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+
+    .menu-toggle,
+    .main-navigation.toggled .nav-menu {
+        display: block;
+    }
+
+    .main-navigation ul {
+        display: none;
+    }
+}
+
+/* =Content
+----------------------------------------------- */
+
+#site-navigation {
+
+    clear: both;
+    display: block;
+    float: left;
+    border-radius: 6px;
+    box-shadow: 0 0 6px -2px #333333;
+    margin-left: -15px;
+    width: 1010px;
+    padding: 0 15px;
+    height: 50px;
+    border: 1px solid #fff;
+    background: url("../../images/main-nav-bkg.jpg") repeat-x;
+}
+
+#site-navigation ul {  /* Navigation tab height */
+    height: 78px;
+
+}
+
+#site-navigation ul li {
+    font-size: 11px;
+    text-transform: uppercase;
+    line-height: 15px;
+    max-height: 100%;
+    text-align: center;
+    background: url("../../images/main-nav-divider.png") right center no-repeat;
+    padding-right: 5px;
+    height: 78px;
+}
+
+#site-navigation ul li:last-child {
+    background: none;
+    padding-right: 0;
+}
+
+#site-navigation ul li a {
+    display: block;
+    padding: 9px 15px;
+    color: #004d68;
+    letter-spacing: 0.1em;
+    height: 40px;                /* each box in a list*/
+    text-decoration: none;
+    font-weight: 400;
+}
+
+#site-navigation ul li a:hover {
+    background: url("../../images/main-nav-hover.jpg") repeat-x;
+    text-decoration: none;
+}
+
+#site-navigation ul li ul {
+    top: 48px;
+    height: auto;
+}
+
+#site-navigation ul li ul li {
+    height: auto;
+    width: 100%;
+    background: none;
+    text-align: left;
+    border-top: 1px solid #fff;
+    padding-right: 0;
+}
+
+#masthead #site-navigation ul li ul li a {
+    display: block;
+    padding: 12px 15px;
+    height: auto;
+    background: url("../../images/white80.png");
+    max-width: 100%;
+
+}
+
+#site-navigation ul li ul li a:hover {
+    background: url("../../images/white90.png");
+    white-space: normal;
+}
+
+#site-navigation ul #menu-item-00 {
+    width: 90px;
+}
+
+#site-navigation ul #menu-item-10 {
+    width: 120px;
+}
+
+#site-navigation ul #menu-item-20 {
+    width: 170px;
+}
+
+#site-navigation ul #menu-item-30 {
+    width: 141px;
+}
+
+#site-navigation ul #menu-item-38 {
+    width: 130px;
+}
+
+#site-navigation ul #menu-item-40 {
+    width: 144px;
+}
+
+#site-navigation ul #menu-item-50 {
+    width: 140px;
+}
+
+#site-navigation ul #menu-item-293 {
+    width: 190px;
+}
+
+#site-navigation ul #menu-item-42 {
+    width: 190px;
+}
+#site-navigation ul #menu-item-42 {
+    width: 190px;
+}
+#site-navigation li #menu-item-278 {
+    width: 600px;
+}
+#site-navigation li #menu-item-293 {
+    width: 210px;
+}
+
+
+
+
+

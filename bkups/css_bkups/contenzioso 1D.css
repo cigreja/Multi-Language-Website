@@ -1,0 +1,51 @@
+/* CSS resets, general classes*/
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+          margin: 0;
+}
+
+/* LAYOUT */
+html,
+body {
+   max-width: 980px;
+   margin:0 auto;
+   padding:0;
+   height:100%;
+   background: gray;
+}
+#contenzioso-container {
+   min-height:100%;
+   position:relative;
+   background: palegreen;
+   min-width: 360px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+
+/* FORMATTING */
+
+
+	
+/* fonts */	
+
+.corpopiccolo {  
+	text-align: justify; 
+	margin-left: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #333366; }
+
+
+#contenzioso-table { background-color: #fbfbfb; text-align: left; padding-left: 8px; text-align: left;}
+
+
+.causa {  width: 70px; }
+
+.materia {vertical-align: top; }
+
+.argomento, .settore, .industria { vertical-align: top; font-weight: bold; }
+

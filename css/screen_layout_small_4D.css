@@ -1,0 +1,64 @@
+#main-content{
+	display: block;
+	width: 100%;
+}
+
+#buttons-container{
+	display: block;
+	width: 100%;
+}
+
+
+.outerContainer {
+   	float: left;
+   	width: 100%;
+    max-width: 540px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 1%; margin-right: 1%;
+    margin-bottom: 1%;
+}
+
+/* headercontainer styles
+--------------------------------*/
+#header h1{
+    font-size: 4rem;
+    line-height: 1.2;
+}
+
+#header h4{
+    font-size: 1.2rem;
+    line-height: 1;
+}
+
+
+/* navigation
+--------------------------------*/
+/*#navigation  {*/
+	/*display: none;*/
+/*}*/
+
+
+#header>nav.navigation{
+    display: none;
+}
+
+#navigation-bottom .navigation { display: block; }
+#navigation-bottom>h1,#navigation-bottom h4,#navigation-bottom.middle-bar { display: none; }
+
+#navigation-bottom .navigation .menu-item {
+     float: none; width: 100%; text-align: left;
+ }
+ 
+#navigation-bottom .navigation .menu-item:hover > ul { display: none;}
+
+#navigation-bottom .navigation .toggle-symbol {
+	display: inline;
+    font-size: 16px;
+    font: bold;
+}
+
+#navigation-bottom .navigation .menu-item a { display: inline; }
+
+#navigation-bottom .navigation .sub-menu.small { width: 100%; }
+#navigation-bottom .navigation .sub-menu.large >ul{ width: 100%; }

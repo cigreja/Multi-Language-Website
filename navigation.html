@@ -1,0 +1,81 @@
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<!-- goes into div id="navigation" -->
+<div id="menu-main-container">
+    <script>
+        $(function () {
+
+            $('.menu-item span').click(function () {
+
+                $(this).parent().find('ul').toggle('fast');
+                $(this).select('span').text(function(_, value) {
+                    return value == '-' ? '+' : '-';
+                });
+            });
+        });
+    </script>
+    <ul class="menu-main">
+        <li class="menu-item num-00"><a href="about-us.html">About Us</a>&nbsp;<span class="toggle-symbol">+</span>
+            <ul class="sub-menu small">
+                <li><a href="professionisti.html">Professionisti</a></li>
+                <li><a href="bibliografia.html">bibliografia</a></li>
+                <li><a href="news.html">News</a></li>
+                <li><a href="contact-us.html">Contact Us</a></li>
+            </ul>
+
+        </li>
+        <li class="menu-item num-10"><a href="">Practice Areas</a>&nbsp;<span class="toggle-symbol">+</span>
+            <ul class="sub-menu large">
+                <li><a href="settori.html">Agricoltura, pesca, industria, ambiente</a></li>
+                <li><a href="concorrenza.html">Concorrenza</a></li>
+                <li><a href="scambi.html">Scambi all'interno dell'area dell'Unione Europea</a></li>
+                <li><a href="import-export.html">Importazioni/esportazioni da e verso Paesi extracomunitari</a></li>
+                <li><a href="import-export.html#rapporti_commerciali">Rapporti commerciali UE/Paesi terzi </a></li>
+                <li><a href="internazionale.html">Contratti internazionali di natura commerciale</a></li>
+                <li><a href="penale-amministrativo.html">Diritto doganale</a></li>
+                <li><a href="trademarks.html">Marchi</a></li>
+                <li><a href="penale-amministrativo.html">Penale e penale-amministrativo in relazione alle risorse
+                    finanziarie comunitarie</a></li>
+                <li><a href="contracts.html">Contratti commerciali</a></li>
+                <li><a href="">immobiliare</a></li>
+                <li><a href="">» Negoziati e Risoluzione di Conflitti</a></li>
+                <li><a href="germania360.html">» Consulenza 360° per apertura di attività in Germania</a></li>
+            </ul>
+        </li>
+        <li class="menu-item num-20"><a href="">EU &#038 International Law</a>&nbsp;<span class="toggle-symbol">+</span>
+            <ul class="sub-menu large">
+                <li class="sub-menu-large"><a href="concorrenza.html">Concorrenza</a></li>
+                <li><a href="scambi.html">Scambi all'interno dell'area dell'Unione Europea</a></li>
+                <li><a href="import-export.html">Importazioni/esportazioni da e verso Paesi extracomunitari</a></li>
+                <li><a href="import-export.html">Rapporti commerciali UE/Paesi terzi </a></li>
+                <li><a href="internazionale.html">Contratti internazionali di natura commerciale</a></li>
+                <li><a href="trademarks.html">Marchi, disegni e modelli dell'unione</a></li>
+                <li><a href="penale-amministrativo.html">Penale e penale-amministrativo in relazione alle risorse
+                    finanziarie dell'Unione</a></li>
+
+            </ul>
+        </li>
+        <li class="menu-item num-30"><a href="">National Laws</a>&nbsp;<span class="toggle-symbol">+</span>
+            <ul class="sub-menu large">
+                <li><a href="settori.html">Agricoltura, pesca, industria, ambiente</a></li>
+                <li><a href="concorrenza.html">Concorrenza</a></li>
+                <li><a href="scambi.html">Scambi all'interno dell'area dell'Unione Europea</a></li>
+                <li><a href="penale-amministrativo.html">Diritto doganale</a></li>
+                <li><a href="trademarks.html">Marchi</a></li>
+                <li><a href="penale-amministrativo.html">Penale e penale-amministrativo in campo finanziario</a></li>
+                <li><a href="contracts.html">Contratti commerciali</a></li>
+                <li><a href="">» immobiliare</a></li>
+                <li><a href="">» Negoziati e Risoluzione di Conflitti</a></li>
+                <li><a href="germania360.html">» Consulenza 360° per apertura di attività in Germania</a></li>
+            </ul>
+        </li>
+
+        <li class="menu-item num-40"><a href="">Cases</a>&nbsp;<span class="toggle-symbol">+</span>
+        	<ul class="sub-menu small">
+                <li><a href="contenzioso.html">EU Court of Justice cases</a></li>
+            </ul>
+        </li>
+        <li class="menu-item num-50"><a href="uffici.html">Offices</a>&nbsp;<span class="toggle-symbol">+</span></li>
+    </ul>
+</div>
+
+

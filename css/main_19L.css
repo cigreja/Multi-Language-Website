@@ -1,0 +1,514 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,600,700,800");
+
+/* =Global
+----------------------------------------------- */
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    /* Corrects text resizing oddly in IE6/7 when body font-size is set using em units http://clagnut.com/blog/348/#c790 */
+    overflow-y: scroll;
+    /* Keeps page centered in all browsers regardless of content height */
+    -webkit-text-size-adjust: 100%;
+    /* Prevents iOS text size adjust after orientation change, without disabling user zoom */
+    -ms-text-size-adjust: 100%;
+    /* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
+    vertical-align: baseline;
+}
+
+body {
+    /*background: white url("../images/bg_2KT.jpg") repeat-x;*/
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px; /*for older browsers*/
+    font-size: 1.6rem;
+    color: #666;
+    line-height: 1.5;
+    vertical-align: baseline;
+}
+
+/* Global Text elements */
+p {
+    margin-bottom: 1.5em;
+}
+
+ul, ol {
+    margin: 0px 0px 1.5em 3em;
+}
+
+ul {
+    list-style: outside none disc;
+    border: 0px none;
+    font-size: 100%;
+    font-weight: 400;
+    text-align: inherit;
+    outline: 0px none;
+    padding: 0px;
+    vertical-align: baseline;
+}
+
+ol {
+    list-style: decimal;
+}
+
+li > ul, li > ol {
+    margin-bottom: 0;
+    margin-left: 1.5em;
+}
+
+sup, sub {
+    font-size: 75%;
+    height: 0;
+    line-height: 0;
+    position: relative;
+}
+
+sup {
+    bottom: 1ex;
+}
+
+sub {
+    top: .5ex;
+}
+
+small {
+    font-size: 75%;
+}
+
+big {
+    font-size: 125%
+}
+
+figure {
+    margin: 0;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content: "";
+}
+
+blockquote, q {
+    quotes: "" "";
+}
+
+/*tables */
+table {
+    /* tables still need 'cellspacing="0"' in the markup */
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 0 0 1.5em;
+    width: 100%;
+}
+
+caption, th, td {
+    font-weight: normal;
+    text-align: left;
+}
+
+th {
+    font-weight: bold;
+}
+
+img {
+    height: auto; /* Make sure images are scaled correctly. */
+    max-width: 100%; /* Adhere to container width. */
+}
+
+/* GLobal links */
+a {
+    color: royalblue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a, a:visited {
+    color: #004d68;
+    text-decoration: none;
+}
+
+a:hover, a:focus, a:active {
+    color: midnightblue;
+}
+
+/* Clearing css-tricks.com/pseudo-element-roundup/  */
+.clear:before, .clear:after {
+    content: '';
+    display: table;
+}
+
+.clear:after {
+    clear: both;
+}
+
+.clear {
+    zoom: 1;
+}
+
+/* Layout */
+#page {
+    max-width: 980px;
+    background-color: #eeeeee;
+    margin: 4px auto 0px;
+    padding: 0px 20px;
+    position: relative;
+}
+
+.relative {
+    position: relative;
+}
+
+/*=supra-heade
+------------------------------------------------ */
+#supra-header {
+
+    border-bottom: 8px solid #b09b4c;
+    width: 100%;
+    height: 8px;
+    position: fixed;
+    top: 0px;
+    z-index: 100;
+
+}
+
+/* =header
+----------------------------------------------- */
+#header {
+    width: 100%;
+    max-width: 980px; /* necessary if position is fixed */
+    height: 220px;
+    background-color: #eeeeee;
+    background-image: url('../images/DV logo w bg.jpg');
+    background-repeat: no-repeat;
+    padding: 0px 5px 20px;
+    color: #004d68;
+    position: fixed;
+    top: 7px;
+    margin-left: -20px; /* to undo the page left padding */
+    z-index: 100;
+    padding-top: 122px;
+}
+
+#header h1 {
+    font-size: 6rem;
+    text-shadow: 3px 3px 2px rgba(150, 150, 150, 1);
+    line-height: 1.2;
+    margin-bottom: 0;
+}
+
+#header h4 {
+    font-size: 12px;
+    margin-left: 100px;
+}
+
+.middle-bar {
+    border-bottom: 8px solid #b09b4c;
+    width: 980px;
+    position: fixed;
+    margin-left: -5px;
+    top: 220px;
+    z-index: 100;
+}
+
+/* =main-container Layout
+----------------------------------------------- */
+#main-container {
+    margin: 220px auto 0px;
+    padding: 50px 0 0 8px;
+}
+
+.featured {
+    width: 980px;
+    position: relative;
+    left: -28px;
+    min-width: 600px;
+    padding-bottom: 3px;
+    /*border-bottom: 8px solid #b09b4c;*/
+    overflow: hidden;
+}
+
+#tableDiv {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+}
+
+#main-content {
+    display: table-cell;
+    width: 70%;
+    vertical-align: top;
+}
+
+#buttons-container {
+    display: table-cell;
+    margin-top: 0px;
+    width: 30%;
+
+}
+
+/* =main-content 
+----------------------------------------------- */
+
+#main-content .article-title h1 {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 16px 0 0;
+    color: #b09b4c;
+}
+
+#main-content h1, #main-content h2, #main-content h3 {
+    text-transform: uppercase;
+    color: #004d68; /*=rgb(0,77,104)*/
+}
+
+#main-content h1 {
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 32px;
+    margin: 0 0 20px;
+    font-size-adjust: 0.58;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+#main-content h2 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 20px 0 0;
+}
+
+#main-content h3 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 10px 0;
+}
+
+#main-content h4 {
+    color: #b09b4c;
+    font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 18px;
+    margin: 0;
+}
+
+#main-content p {
+    font-weight: 400;
+    margin: 0 0 1em;
+}
+
+#main-content p {
+    margin-bottom: 1.5em;
+}
+
+#main-content strong {
+    font-weight: 700;
+}
+
+.bullet-span { white-space: nowrap; }
+.bullet-span:before { content: '\261E \a0'; }
+.bullet-span:after { content: '\a0 \a0'; }
+
+/* =buttons-container
+----------------------------------------------- */
+
+.items {
+    padding: 8px 0px 0px;
+    margin: 0;
+    position: relative;
+}
+
+.items li {
+    display: block;
+
+    /*text-transform: capitalize;*/
+    list-style-type: none;
+    width: 100%;
+    height: 90px;
+    padding: 8px 0 4px 0;
+    /*background-color: palegreen;*/
+    text-align: right;
+    /*margin-right: -10px;*/
+}
+
+.outerContainer {
+    display: table;
+    table-layout: fixed;
+    width: 90%;
+    max-width: 240px;
+    height: 72px;
+    /* margin-left: 10%;
+     margin-right: 0%;
+     overflow: hidden;*/
+    border-radius: 4px;
+    background-position: top left;
+    float: right;
+    padding: 5px;
+   
+
+    /*background-position: 0px -72px;*/
+}
+
+.outerContainer:hover {
+    background-position: bottom left;
+}
+
+.innerContainer {
+	
+    display: table-cell;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    margin: 0 auto;
+    text-align: center;
+    
+    overflow: hidden; 
+    background: #004d68;
+    background: rgba(0, 77, 104, 0.55);
+}
+
+.innerContainer div {
+	width: 100%;
+    max-height: 60px;
+    overflow: hidden;
+    vertical-align: middle;
+   
+}
+
+/* =buttons
+----------------------------------------------- */
+.items li:nth-child(1) div.outerContainer {
+    background-image: url('../images/Dovilex_Tractor_in_Field_Sprite3_3KT.png');
+}
+
+.items li:nth-child(2) div.outerContainer {
+    background-image: url('../images/Dovislex_Sailboat5_Sprite3_3KT.png');
+}
+
+.items li:nth-child(3) div.outerContainer {
+    background-image: url('../images/Dovislex_EU_Flags_Sprite3_3KT.png');
+}
+
+.items li:nth-child(4)  div.outerContainer {
+    background-image: url('../images/Dovislex_Cargo_Ship2_Sprite3_3KT.png');
+}
+
+.items li:nth-child(5)  div.outerContainer {
+    background-image: url('../images/Dovislex_Nation_Flags_Sprite3_3KT.png');
+}
+
+.items li:nth-child(6)  div.outerContainer {
+    background-image: url('../images/Dovislex_Venice_Canal_Sprite3_3KT.png');
+}
+
+.items li:nth-child(7)  div.outerContainer {
+    background-image: url('../images/Dovislex_Aqueduct_Sprite3_3KT.png');
+}
+
+.items li:nth-child(8) div.outerContainer {
+    background-image: url('../images/Dovislex_Contract_Pens_Sprite3_3KT.png');
+}
+
+.items li:nth-child(9) div.outerContainer {
+    background-image: url('../images/Dovislex_Chess7_Sprite3_3KT.PNG');
+}
+
+.items li:nth-child(10) div.outerContainer {
+    background-image: url('../images/Dovislex_Bundestag_Berlin_Sprite3_3KT.png');
+}
+
+.items li:nth-child(1)  p:before {
+    content: ' Agricoltura, pesca, industria, ambiente';
+}
+
+.items li:nth-child(2)  p:before {
+    content: 'Concorrenza';
+}
+
+.items li:nth-child(3) p:before {
+    content: 'Scambi all\'interno dell\'area UE';
+}
+
+.items li:nth-child(4) p:before {
+    content: 'Import - Export';
+}
+
+.items li:nth-child(5) p:before {
+    content: 'Contratti internazionali';
+}
+
+.items li:nth-child(6) p:before {
+    content: 'Marchi, disegni e modelli';
+}
+
+.items li:nth-child(7) p:before {
+    content: 'Penale amministrativo e finanziario';
+}
+
+.items li:nth-child(8) p:before {
+    content: 'Contratti commerciali e Immobiliare';
+}
+
+.items li:nth-child(9) p:before {
+    content: 'Negoziati e Conflitti';
+}
+
+.items li:nth-child(10) p:before {
+    content: 'Consulenza estesa in Germania';
+}
+
+.innerContainer p {
+    color: white;
+    font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 1px;
+    margin-bottom: 0px;
+    padding: 5px 0;
+    min-height: 38px;
+    
+
+}
+
+.innerContainer p:hover {
+    font-weight: 400;
+    font-size: 22px;
+}
+
+/* Text meant only for screen readers */
+/*.screen-reader-text {*/
+/*clip: rect(1px, 1px, 1px, 1px);*/
+/*position: absolute !important; }*/
+
+/*.screen-reader-text:hover,*/
+/*.screen-reader-text:active,*/
+/*.screen-reader-text:focus {*/
+/*background-color: #f1f1f1;*/
+/*border-radius: 3px;*/
+/*box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);*/
+/*clip: auto !important;*/
+/*color: #21759b;*/
+/*display: block;*/
+/*font-size: 14px;*/
+/*font-weight: bold;*/
+/*height: auto;*/
+/*left: 5px;*/
+/*line-height: normal;*/
+/*padding: 15px 23px 14px;*/
+/*text-decoration: none;*/
+/*top: 5px;*/
+/*width: auto;*/
+/*z-index: 100000;*/
+/* Above WP toolbar *//* }*/
+
