@@ -28,7 +28,7 @@
     <script src='js/load-siteParts.js'></script>
     <!--Load commons parts through javascript -->
     <script src="js/load-maps.js"></script>
-    <!--Change maps and color links from uffici.tml-->
+    <!--Change maps and color links from uffici.html-->
 </head>
 
 <body onload="loadSiteParts()">
@@ -74,7 +74,6 @@
                         </table>
                     </div>
                     <h4>Berlin, Deutschland</h4>
-
                     <div>
                         <table id="addressesTable">
                             <tr valign=top>
@@ -94,16 +93,17 @@
             <div class="map-content">
                 <div id="slide-set">
                     <div id="slides">
-                        <img src="images/Bruxelles1.gif" alt=""/>
-                        <img src="images/Bruxelles2.gif" alt=""/>
-                        <img src="images/Bruxelles3.gif" alt=""/>
+                        <img src="images/mappa%20Padova%203.jpg" alt=""/>
+                        <img src="images/mappa%20padova%20casello.jpg" alt=""/>
+                        <img src="images/mappa%20padova%201.jpg" alt=""/>
                     </div>
                 </div>
                 <div class="city-link">
                     <ul>
                         <li>
+
+                            <a href="#slide2" onclick="showSlider('padova')" class="selected">Padova</a>
                             <a href="#slide1" onclick="showSlider('bruxelles')">Bruxelles</a>
-                            <a href="#slide2" onclick="showSlider('padova')">Padova</a>
                             <a href="#slide3" onclick="showSlider('berlino')">Berlino</a>
                         </li>
                     </ul>

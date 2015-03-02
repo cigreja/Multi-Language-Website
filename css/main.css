@@ -37,7 +37,7 @@ body {
 }
 
 /* Global Text elements */
-h1,h2,h3,h4,h5,h6 { color:#004d68;  /**/ /*#003399;#004d68;=rgb(0,77,104); #003a99 = middle*/ }
+h1,h2,h3,h4,h5,h6 { color:#004d68; /**/ /*#003399;#004d68;=rgb(0,77,104); #003a99 = middle*/ }
 .tema-blu { color: #003a93; /*#004d68;*/ /*=rgb(0,77,104)*/ }
 
 p { margin-bottom: 1.5em; }
@@ -500,29 +500,40 @@ a:hover, a:focus, a:active {
 
 /*Collapsible div for Professionisti.html JS toggle
 ==============================================*/
-p#extra-info {
+p.extra-info {
     display: none;
 }
 
-ul#extra-info {
+ul.extra-info {
     display: none;
 }
 /*Format for Bibliografia.html
 ==============================================*/
 
-
-ul.citation
-{
+ul.citation{
     padding: 0;
     margin: 10px;
     text-align: left;
     font-size: 11px;
 }
 
-.citation li
-{
-    padding-right: .6em;
-    margin: 1em 0;
+.citation li {
+    padding-right: .3em;
+    margin: 0.5em 0;
+}
+.bibliografica{
+    margin: 0;
+    vertical-align: top;
+}
+div.more{
+    font: italic;
+    font-size: 12px;
+}
+
+/*Contac Us style =====================*/
+
+div#email-address{
+     float: right;
 }
 
 /* Text meant only for screen readers */
