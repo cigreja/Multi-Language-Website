@@ -1,0 +1,253 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,600,700,800");
+
+
+/* =Global
+----------------------------------------------- */
+
+* { border: 0; margin: 0; padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+  /* Corrects text resizing oddly in IE6/7 when body font-size is set using em units http://clagnut.com/blog/348/#c790 */
+    overflow-y: scroll;
+  /* Keeps page centered in all browsers regardless of content height */
+    -webkit-text-size-adjust: 100%;
+  /* Prevents iOS text size adjust after orientation change, without disabling user zoom */
+    -ms-text-size-adjust: 100%;
+  /* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
+}
+
+
+body {
+  background: white url("../images/bg_2KT.jpg") repeat-x;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px; /*for older browsers*/ font-size: 1.6rem;
+  color: #666;
+  line-height: 1.5;
+}
+
+
+/* Global Text elements */
+p { margin-bottom: 1.5em; }
+
+ul, ol { margin: 0 0 1.5em 3em; }
+ul { list-style: disc; }
+ol { list-style: decimal; }
+li > ul, li > ol { margin-bottom: 0; margin-left: 1.5em; }
+
+sup, sub {
+  font-size: 75%;
+  height: 0;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sup { bottom: 1ex; }
+sub { top: .5ex; }
+
+small { font-size: 75%; }
+big { font-size: 125%; }
+
+figure { margin: 0; }
+
+blockquote:before, blockquote:after, q:before, q:after { content: ""; }
+blockquote, q { quotes: "" ""; }
+
+
+/*tables */
+table {
+  /* tables still need 'cellspacing="0"' in the markup */
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 0 0 1.5em;
+  width: 100%; }
+
+caption, th, td { font-weight: normal; text-align: left; }
+th { font-weight: bold; }
+
+img {
+  height: auto;
+  /* Make sure images are scaled correctly. */
+  max-width: 100%;
+  /* Adhere to container width. */ }
+
+
+
+/* GLobal links */
+a { color: royalblue; }
+a:visited { color: purple; }
+a, a:visited {
+  color: #004d68;
+  text-decoration: none;
+}
+
+a:hover, a:focus, a:active { color: midnightblue; }
+
+
+/* Text meant only for screen readers */
+.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute !important; }
+
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-weight: bold;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+  /* Above WP toolbar */ }
+
+/* Clearing */
+.clear:before, .clear:after { content: ''; display: table; }
+
+
+/* Layout */
+#page {
+    max-width: 980px;
+    background: #eeeeee;
+    margin: 0 auto;
+}
+
+.relative { position: relative; }
+#main-container {
+    zoom: 1;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+#main-container:before, #main-container:after {
+    content: " ";
+    display: table;
+}
+#main-container:after { clear: both;}
+
+
+
+#main-content {
+    display: block;
+    float: left;
+    margin-left: 2%;
+    width: 70%;
+}
+
+
+#buttons-container {
+    display: block;
+    float: right;
+    margin-right: 3%;
+    width: 25%;
+    margin-right: 0;
+    margin-top: 16px;
+}
+
+.featured {
+    padding-bottom: 3px;
+    border-bottom: 8px solid #b09b4c;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.featured:before, #page .featured:after {
+    content: " ";
+    display: table;
+}
+
+.featured:after { clear: both; }
+
+#page .featured img { float: left; }
+
+
+#page #main-content .article-title h1 {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 16px 0 0;
+    color: #b09b4c;
+}
+
+#page #main-content h1, #page #main-content h2, #page #main-content h3 {
+    text-transform: uppercase;
+    color: #004d68;
+}
+
+#page #main-content h1 {
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 32px;
+    margin: 0 0 20px;
+}
+
+#page #main-content h2 {
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 24px;
+  margin: 20px 0 0;
+  }
+  
+#page #main-content h3 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 10px 0;
+}
+
+#page #main-content h4 {
+  color: #b09b4c;
+  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 18px;
+  margin: 0; }
+
+#page #main-content p {
+    font-weight: 400;
+    margin: 0 0 1em;
+}
+
+#page #main-content strong {
+    font-weight: 700;
+}
+
+.links {
+    list-style: none;
+    margin: 10px 0;
+    padding: 0;
+}
+
+.links li {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.links li a {
+    color: transparent;
+    font: 0/0 a;
+    text-shadow: none;
+    display: block;
+    width: 240px;
+    height: 73px;
+    background-position: top left;
+}
+
+.links li a:hover {
+    background-position: bottom left;
+}
+
+

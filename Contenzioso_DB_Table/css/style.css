@@ -1,0 +1,101 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px; /*for older browsers*/
+    color: #666;
+    line-height: 1.5;
+    vertical-align: top;
+
+}
+body {
+    background: #eeeeee;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+}
+div#form-container{
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    background-color: #eeeeee;
+}
+div#table-container{
+    position: relative;
+    top:210px;
+
+}
+
+fieldset.update-table {
+    vertical-align: top;
+    font-size: 10px;
+    padding: 10px;
+    margin-right: 40px;
+    height: 180px;
+}
+
+fieldset.delete-row {
+    padding: 10px;
+    margin-right: 40px;
+    height: 182px;
+}
+
+
+
+table#form {
+    vertical-align: top;
+    text-align: left;
+}
+
+input.causa, input.id {
+    width: 60px;
+}
+
+input.form-Materia {
+    margin-left: 10px;
+    width: 300px;
+}
+
+input.form-argomento {
+    min-width: 320px;
+    width: auto;
+}
+
+input.form-Gruppo {
+    width: 60px;
+
+}
+
+input.form-ArgomentoORi {
+    width: 400px;
+}
+
+.table_complete td {
+    border: 1px solid black;
+
+}
+
+.table_complete th {
+    font-size: 20px;
+    border: 2px solid black;
+
+}
+
+.table_complete {
+    clear: both;
+    position: relative;
+}
+
+button#update {
+    float: right;
+    height: 30px;
+    width: 70px;
+    position: relative;
+    top:-40px;
+}
+
+button#delete{
+    position: relative;
+    bottom: -100px;
+    float: right;
+    height: 30px;
+    width: 70px;
+}
+

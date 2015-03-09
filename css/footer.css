@@ -1,6 +1,7 @@
 footer#colophon {
 	/*background-color: lightpink;*/
     margin-top: 20px;
+    padding-left: 8px;
 }
 
 footer#colophon .container {

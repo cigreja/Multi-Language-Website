@@ -70,11 +70,37 @@ uffici_1D.html- Everything is working.
 Maps images need to be change for real maps.
 
 Things To Do==================================================
-Bibligrafia.html add 3 other person and reduce amount of text.
+Bibligrafia.html add 3 other person and reduce amount of text.---Added article and publicazioni by GD and WV---D
 contenzioso.html change column % width and eliminate min-width.
-contact-us.html add office's name + telephone + email. See if it possible to do a contact form.
+contact-us.html add office's name + telephone + email. See if it possible to do a contact form.---added emailto--D
+
+contac-us_12D.html works fine.---Maybe is necessary to use an online form to contact through website
 
 
+3/02/2015
+
+bibliografia_2D.html works fine. More and less is working.
+contenzioso_2D.css table width is responsive even smaller than 320px width.
+
+
+3/02/2015
+most files saved as version _13L
+
+3/03/2015
+Things ToDo-----
+Change order Padova maps --Done by L
+Professionisti- check the more tag--Done by D
+Footer- add padding --Done by D
+maps dots- change order from last to first insted first to last.--Done by D
+
+3/04/2015
+
+Things ToDO————
+-Biblios.html fix more link. ---Done by D
+
+3/09/2015
+
+-DO a list of properties related to font-size, font-family, line-hi
 
 
 

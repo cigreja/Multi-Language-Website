@@ -1,0 +1,39 @@
+tbody {margin: 0;}
+
+#contenzioso {
+    position: relative;
+    text-align: center;
+
+}
+
+.contenzioso-table {
+    background-color: #fbfbfb;
+    padding-left: 1px;
+    text-align: left;
+    font-size: 10px;
+    vertical-align: top;
+}
+
+.causa {width: 8%; margin-left: 0; margin-right: 0.5%;}
+.materia {width:35%; word-wrap: break-word; word-break: break-all; margin-right: 0.5%;  }
+.argomento{ width: 30%; word-wrap: break-word; word-break: break-all;}
+.settore{width: 20%;}
+
+.argomento, .settore, .industria {font-weight: bold;}
+
+.contenzioso-table tbody tr:nth-child(odd) {background-color: #fff;}
+
+.contenzioso-table tbody tr:nth-child(even) {background-color: #EEF7EE;}
+
+.contenzioso-table td {border: 0.5px none black; border-bottom-style: dotted; padding-right: 4px;}
+
+.contenzioso-table th {
+    font-size: 14px;
+    padding: 0px;
+    vertical-align: top;
+}
+
+.notabene { font-size: 10px; }
+/* FORMATTING */
+
+/* fonts */
