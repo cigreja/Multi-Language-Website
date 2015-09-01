@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    <title>ADR</title>
+
+    <meta id="view" name="viewport"
+          content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1"/>
+
+    <link rel='stylesheet' type='text/css' href='../css/main.css'/>
+    <link id="navigationId" rel='stylesheet' type='text/css' href='../css/navigation_SP.css'/>
+    <link rel='stylesheet' type='text/css' href='../css/footer.css'/>
+    <link class="responsive_css">
+    <!--responsive css files above this link through js -->
+    <!--Common css for all pages-->
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <!--Jquery library to use in map slides -->
+    <script src='../js/load-siteParts.js'></script>
+    <!--Load commons parts through javascript -->
+    <script>
+        $(function () {
+
+            $('span').click(function () {
+
+                $(this).parent().find('div').toggle('fast');
+                $(this).select('span').text(function (_, value) {
+                    return value == 'minus «««' ? 'plus »»»' : 'minus «««';
+                });
+            });
+        });
+    </script>
+    <meta name="google-translate-customization" content="f4231d9cf972e640-4a97c935a25bbbd6-g987d82a3d95ea4b6-18"/>
+    <script type="text/javascript" src="../js/site-lang.js"></script>
+    <!--Load navigation.css according to language selected -->
+</head>
+<body onload="loadSiteParts()">
+<div id="supra-header"></div>
+<div id="page">
+	<div id="header"></div>
+
+    <div id="main-container" class="clear">
+        <div id="tableDiv">
+            <div id="main-content">
+                <header class="article-title notranslate"><h1>Arbitration &amp; ALTERNATIVE DISPUTE RESOLUTION (ADR)</h1></header>
+                <article>
+                    <h1>EXTRAJUDICIAL  RESOLUTION Of NATIONAL, EU &amp; INTERNATIONAL disputes</h1>
+
+                    <p>The Firm provides assistance and representation in procedures (formal or informal) aimed at resolving disputes or preventing disputes from arising, both between private entities or with public authorities. </p>
+
+                    <p> At all levels (national and international), the Firm offers assistance with the following types of proceedings:  arbitration proceedings (both formal and amicable), conciliation, and mediation (also in the tax area).</p>
+
+
+                    <p>At the Community level:</p>
+
+                    <ul>
+                        <li> administrative contacts with institutions or bodies of the European Union - especially the European Commission - seeking the settlement of an issue (in any sector covered by Community legislation);
+                        </li>
+                        <br>
+                        <li> administrative proceedings - and, where appropriate, conciliation or arbitration - in accordance with European Union legislation in certain sectors, especially those in procurement of goods or services in third countries
+                        </li>
+                    </ul>
+
+                    <p> Internationally, the Firm provides assistance in various areas including the procedures of the International Chamber of Commerce (ICC). </p>
+
+                    <h4>Cases</h4>
+                    <p>To give an idea of ​​the type of extrajudicial proceedings supported by the Firm at the supranational level, we list:</p>
+                    <ul>
+                        <li>in a case of alleged breach of contract the company won a tender issued by the European Union Delegation in an African state for the renovation of the water supply of the capital of the State (the complaint was that it provided, in part, goods of Chinese origin rather than - as deemed mandatory - Community or ACP goods);
+                        </li> <br>
+                        <li>dispute arose between the parties to a contract of international agency in regards to the indemnity and severance payment claimed by the  French agent. The dispute was referred to arbitration conducted by the International Chamber of Commerce in Paris (ICC).
+                        </li>
+                    </ul>
+                </article>
+            </div>
+            <div id="buttons-container"><!-- goes into div id="buttons-container" -->
+            </div>
+        </div>
+
+    </div>
+	<!-- #main-container -->
+<nav id="navigation"></nav>
+<!-- #site-navigation -->
+<footer id="colophon" class="clearfix"></footer>
+</div>
+</body>
+</html>

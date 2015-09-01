@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    <title>Real Estate USA</title>
+
+    <meta id="view" name="viewport"
+          content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1"/>
+
+    <link rel='stylesheet' type='text/css' href='../css/main.css'/>
+    <link rel='stylesheet' type='text/css' href='../css/navigation_FR.css'/>
+    <link rel='stylesheet' type='text/css' href='../css/footer.css'/>
+
+    <link class="responsive_css">
+    <!--responsive css files above this link through js -->
+
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <!--Load JQuery library -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+    <!-- possible future use -->
+    <script type="text/javascript" src='../js/load-siteParts.js'></script>
+    <!--Load commons parts through javascript -->
+    <script>
+        $(function () {
+
+            $('span').click(function () {
+                $(this).parent().find('div').toggle('fast');
+                $(this).select('span').text(function (_, value) {
+                    return value == '« minus' ? '» plus' : '« minus';
+                });
+            });
+        });
+    </script>
+    <meta name="google-translate-customization" content="f4231d9cf972e640-4a97c935a25bbbd6-g987d82a3d95ea4b6-18"/>
+    <script type="text/javascript" src="../js/site-lang.js"></script>
+    <!--Load navigation.css according to language selected -->
+</head>
+<body onload="loadSiteParts()">
+<div id="supra-header"></div>
+<div id="page">
+    <div id="header"></div>
+    <div id="main-container" class="clear">
+        <div id="tableDiv">
+            <div id="main-content">
+                <header class="article-title notranslate"><h1>Real Estate</h1></header>
+                <article>
+                    <h1>Real Estate in the USA & Germany</h1>
+
+                    <p>The Firm offers legal advice and assistance in real estate transactions in the USA and especially in New York, Miami and Houston. In particular, the Firm provides the following services:</p>
+                    <ul>
+                        <li>assistance in the negotiation and the stage of preparation of the purchase agreement </li>
+                        <li>preparation of any leases<br></li>
+                        <li>assistance in the course of the contractual relationship</li>
+                    </ul>
+
+                    <p>The object of a real estate transaction can be one of the following:</p>
+                    <ul>
+                        <li>purchase of apartment or house for personal purposes</li>
+                        <li>purchase of real estate property for investment</li>
+                        <li>lease</li>
+                        <li>commercial buildings or premises</li>
+                    </ul>
+
+                    <br>
+                    <h3>Buying a house in New York - basic information</h3>
+
+                    <p>We have prepared some practical guides with basic information on real estate transactions in the USA (in New York and Miami in particular). To request these guides, please contact us using the form below.
+
+                    </p><p>
+
+                </p><header class="article-title notranslate"><a href="mailto:info@dovislex.eu?&amp;subject=Request informational document &quot;Real Estate in New York&quot;
+                        &amp;body=Dear Studio Donà Viscardini,%0D%0A%0D%0A Please email me the informational document Real Estate in New York. %0D%0A%0D%0ASincerely,"><h1>=&gt; Request informational document &quot;Real Estate in New York&quot;</h1></a></header>
+                    <p></p>
+
+                    <p>As for assistance in selecting the possible property or apartment - or vice versa if you already own - we can direct you to the various professionals with whom we have good relations of cooperation that specialize in helping Italian and international clients. </p>
+
+
+                </article>
+            </div>
+            <!-- #main-content -->
+        </div>
+        <!-- #tableDiv -->
+    </div>
+    <!-- #main-container -->
+
+    <nav id="navigation"></nav>
+    <!-- #site-navigation -->
+    <footer id="colophon" class="clearfix"></footer>
+</div>
+<!-- #page -->
+</body>
+</html>

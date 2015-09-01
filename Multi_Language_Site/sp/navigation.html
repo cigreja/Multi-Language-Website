@@ -1,0 +1,66 @@
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<!-- goes into div id="navigation" -->
+<div id="menu-main-container">
+    <script>
+        $(function () {
+
+            $('.menu-item span').click(function () {
+
+                $(this).parent().find('ul').toggle('fast');
+                $(this).select('span').text(function(_, value) {
+                    return value == '-' ? '+' : '-';
+                });
+            });
+        });
+    </script>
+    <ul class="menu-main">
+        <li class="menu-item num-00"><a href="index.html"></a>&nbsp;<span class="toggle-symbol">+</span>
+            <ul class="sub-menu small">
+                <li><a href="index.html"></a></li>
+                <li><a href="professionisti.html"></a></li>
+                <li><a href="contenzioso.html"></a></li>
+                <li><a href="bibliografia.html"></a></li>
+                <li><a href="news.html"></a></li>
+                <li><a href="contact-us.html"></a></li>
+            </ul>
+        </li>
+        
+        
+        <li class="menu-item num-20"><a href=""></a>&nbsp;<span class="toggle-symbol">+</span>
+            <ul class="sub-menu large">
+                <li><a href="concorrenza.html"></a></li>
+                <li><a href="arbitration.html"></a></li>
+                <li><a href="penale-amministrativo.html"></a></li>
+                <li><a href="scambi.html"></a></li>
+                <li><a href="import-export.html"></a></li>
+                <li><a href="import-export.html#rapporti_commerciali"> </a></li>
+                <li><a href="settori.html"></a></li>
+                <li><a href="penale-amministrativo.html"></a></li>
+             	<li><a href="contracts.html"></a></li>
+                <li><a href="trademarks.html"></a></li>
+
+            </ul>
+        </li>
+        
+        <li class="menu-item num-30"><a href=""></a>&nbsp;<span class="toggle-symbol">+</span>
+            <ul class="sub-menu large">
+               <li><a href="concorrenza.html"></a></li>
+                <li><a href="arbitration.html"></a></li>
+                <li><a href="settori.html"></a></li>
+                <li><a href="penale-amministrativo.html"></a></li>
+             	<li><a href="contracts.html"></a></li>
+                <li><a href="trademarks.html"></a></li>
+				 <li><a href="germania360.html"></a></li>
+            </ul>
+        </li>
+        <li class="menu-item num-40"><a href="azioni_UE.html"></a>&nbsp;</li>
+        <li class="menu-item num-50"><a href="contenzioso.html"></a>&nbsp;</li>
+
+
+        <li class="menu-item num-60"><a href="uffici.html"></a>&nbsp;</li>
+        <li class="menu-item num-70"><a href="news.html"></a>&nbsp;</li>
+
+    </ul>
+</div>
+
+

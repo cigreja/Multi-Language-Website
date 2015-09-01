@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    <title>Real Estate USA</title>
+
+    <meta id="view" name="viewport"
+          content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1"/>
+
+    <link rel='stylesheet' type='text/css' href='../css/main.css'/>
+    <link id="navigationId" rel='stylesheet' type='text/css' href='../css/navigation.css'/>
+    <link rel='stylesheet' type='text/css' href='../css/footer.css'/>
+
+    <link class="responsive_css">
+    <!--responsive css files above this link through js -->
+
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <!--Load JQuery library -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+    <!-- possible future use -->
+    <script type="text/javascript" src='../js/load-siteParts.js'></script>
+    <!--Load commons parts through javascript -->
+    <script>
+        $(function () {
+
+            $('span').click(function () {
+                $(this).parent().find('div').toggle('fast');
+                $(this).select('span').text(function (_, value) {
+                    return value == '« minus' ? '» plus' : '« minus';
+                });
+            });
+        });
+    </script>
+    <meta name="google-translate-customization" content="f4231d9cf972e640-4a97c935a25bbbd6-g987d82a3d95ea4b6-18"/>
+    <script type="text/javascript" src="js/site-lang.js"></script>
+    <!--Load navigation.css according to language selected -->
+</head>
+<body onload="loadSiteParts()">
+<div id="supra-header"></div>
+<div id="page">
+    <div id="header"></div>
+    <div id="main-container" class="clear">
+        <div id="tableDiv">
+            <div id="main-content">
+                <header class="article-title"><h1>Real Estate</h1></header>
+                <article>
+                    <h1>Operazioni Immobiliari negli USA</h1>
+
+                    <p>Lo Studio offre consulenza e assistenza legale nelle transazioni
+                        immobiliari negli USA e in particolare a New York, Miami e Houston. In particolare, lo Studio fornisce i seguenti servizi:</p>
+                    <ul>
+                        <li>assistenza nella fase delle trattative e nella fase della predisposizione del contratto di
+                            compravendita </li>
+                        <li>predisposizione di eventuali contratti di locazione</br></li>
+                        <li>assistenza nel corso del rapporto contrattuale</li>
+                    </ul>
+                    
+                    <p>L'oggetto di una operazione immobiliare può essere uno dei seguenti:</p>
+                     <ul>
+                        <li>acquisto di appartamento o abitazione a fini personali</li>
+                        <li>acquisto di immobile o altre transazioni da investimento</li>
+                        <li>affitto</li>
+                        <li>immobili o locali commerciali</li>
+                    </ul>
+
+                    <h3>Comprare casa a New York - informazione di base</h3>
+
+                    <p> Abbiamo preparato alcune guide pratiche con informazioni di base sulle transazioni immobiliari
+                        negli USA
+                        (e a New York e Miami in particolare). Per richiedere queste guide, vi preghiamo di contattarci
+                        tramite il modulo qui sotto.
+
+                    <p>
+
+                        <header class="article-title"><a href="mailto:info@dovislex.eu?&amp;subject=Richiesta documento informativo &quot;Immobiliare New York&quot;
+                        &body=Spettabile Studio Donà Viscardini,%0D%0A%0D%0Avi prego mandarmi il documento informativo Immobiliare New York.%0D%0A%0D%0ACordialmente"><h1>=> Richiesta documento informativo
+                            Immobiliare New York</h1></a></header>
+                    </p>
+                    
+                     <p>Per quanto riguarda l'assistenza nel selezionare il possibile immobile o appartamento -- o
+                        viceversa se siete già proprietari
+                        -- possiamo indirizzarvi a vari professionisti con i quali abbiamo buoni rapporti di
+                        collaborazione che si specializzano nell'aiutare clienti italiani e internazionali. </p>
+
+
+                </article>
+            </div>
+            <!-- #main-content -->
+        </div>
+        <!-- #tableDiv -->
+    </div>
+    <!-- #main-container -->
+
+    <nav id="navigation"></nav>
+    <!-- #site-navigation -->
+    <footer id="colophon" class="clearfix"></footer>
+</div>
+<!-- #page -->
+</body>
+</html>
